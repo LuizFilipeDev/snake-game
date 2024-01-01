@@ -1,0 +1,12 @@
+:root{
+  background-color: #E0A96D
+}
+
+.container{
+  display: flex;
+}
+
+canvas{
+  margin: 90px auto;
+  border: solid #201E20;
+}
