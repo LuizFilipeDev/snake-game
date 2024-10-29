@@ -1,6 +1,6 @@
 # Snake Game
 
-This application recreates the classic snake game using Node.js, TypeScript and CSS, initially focusing on the essential mechanics, such as movement and fruit-eating functions. This project is under development, and new features will be implemented to expand the gameplay experience.
+This application recreates the classic snake game using Node.js, TypeScript, HTML and CSS, initially focusing on the essential mechanics, such as movement and fruit-eating functions. This project is under development, and new features will be implemented to expand the gameplay experience.
 
 ## Interface
 
